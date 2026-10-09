@@ -4,7 +4,7 @@ An interactive sales dashboard built with **Power BI**, analyzing **3M+ sales re
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🎯 Key Metrics
 
