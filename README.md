@@ -15,12 +15,6 @@ An interactive sales dashboard built with **Power BI**, analyzing **3M+ sales re
 | Discount Value | $27.2M |
 | Total Quantity | 6M |
 
-## 🔍 Insights
-
-- **Bikes** is the top-selling category by a large margin ($148.1M net sales), followed by Clothing ($22.6M), Accessories ($12.1M), and Components ($7.5M).
-- Monthly net sales stay fairly stable throughout the year (~$15.5M–$16.2M), with February as the lowest month.
-- Sales are compared across **7 cities** over **3 years** (2016–2018).
-
 ## 📈 Visuals Included
 
 - Net Sales by Year and City (ribbon chart)
@@ -44,12 +38,6 @@ Relationships:
 - `SalesT.ProductID` → `Product.ProductID`
 - `SalesT.CityCode` → `Location.CityCode`
 
-### Database screenshots
-
-| SalesT | Product | Location |
-|---|---|---|
-| ![SalesT](images/salest.png) | ![Product](images/product.png) | ![Location](images/location.png) |
-
 ## 📥 Data
 
 The full database (`SalesDB.accdb`, 3M+ records) is too large for GitHub.
@@ -70,11 +58,6 @@ The full database (`SalesDB.accdb`, 3M+ records) is too large for GitHub.
 2. Open it with **Power BI Desktop**.
 3. Explore the visuals and use the filters.
 
-## 🎥 Learning Resource
-
-This project was built while following this tutorial: [Watch on YouTube](https://www.youtube.com/watch?v=eAceEDnfcPw)
-
 ## 👤 Author
 
-**[Your Name]**
-🔗 [LinkedIn]([your LinkedIn link])
+**[Hanan Radad]**
